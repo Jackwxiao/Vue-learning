@@ -52,7 +52,7 @@ JS 模拟以上DOM 结构
 }
 ```
 
-[snabbdom](https://github.com/snabbdom/snabbdom) 一个虚拟`DOM` 库，` Vue`的虚拟` DOM `设计参照过这个库，比较简单适合学习 VDOM 
+[snabbdom](https://github.com/snabbdom/snabbdom/blob/master/src/snabbdom.ts) 一个虚拟`DOM` 库，` Vue`的虚拟` DOM `设计参照过这个库，比较简单适合学习 VDOM 
 
 主要可以看一下`h 函数`，`patch 函数`， `patchVNode 函数`以及 `updateChildren 函数`
 
