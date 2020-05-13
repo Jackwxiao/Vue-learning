@@ -110,7 +110,7 @@ else{
 
 ### 总结
 
-* diff 过程 ：`path --> patchVnode --> addVnode --> removeVnode --> updateChildren` 
+* diff 过程 ：`patch --> patchVnode --> addVnode --> removeVnode --> updateChildren` 
 
 * vdom 核心概念很重要： h 函数的参数 、vnode 结构 、 patch 、diff 过程 、 key 的重要性等
 
